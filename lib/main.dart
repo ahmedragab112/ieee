@@ -18,7 +18,7 @@ class Test extends StatelessWidget {
           centerTitle: true,
           leading: const Icon(Icons.abc),
           actions: const [
-            Icon(Icons.abc),
+            Icon(Icons.abc), 
             SizedBox(
               width: 100,
             ),
