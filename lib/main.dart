@@ -14,7 +14,7 @@ class Test extends StatelessWidget {
       home: Scaffold(
         appBar: AppBar(
           backgroundColor: Colors.red,
-          title: const Text('IEEE'),
+          title: const Text('ahmed ragab'),
           centerTitle: true,
           leading: const Icon(Icons.abc),
           actions: const [
