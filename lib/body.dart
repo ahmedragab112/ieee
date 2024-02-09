@@ -23,7 +23,7 @@ class Body extends StatelessWidget {
           height: 100,
           color: Colors.white,
         ),
-         Container(
+        Container(
           width: 150,
           height: 150,
           color: Colors.blue,
@@ -33,10 +33,20 @@ class Body extends StatelessWidget {
           height: 100,
           color: Colors.white,
         ),
-         Container(
+        Container(
           width: 150,
           height: 150,
           color: Colors.blue,
+        ),
+        Container(
+          width: 100,
+          height: 100,
+          color: Colors.white,
+        ),
+        Container(
+          width: 100,
+          height: 100,
+          color: Colors.white,
         ),
         Container(
           width: 100,
